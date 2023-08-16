@@ -1,4 +1,4 @@
-# AI-Based-KOAdiagnostication
+# AI Based KOA Diagnostication
 
 ***Lingzhen Zhu, May 2022***
 
