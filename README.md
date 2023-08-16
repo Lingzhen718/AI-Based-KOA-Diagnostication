@@ -16,6 +16,15 @@
      |    gait parameters. Then the preprocessed gait parameters are tested by one-way analysis of variance (ANOVA) to obtain the
      |    gait parameters with high significance. After that, this study uses these highly significant gait parameters to establish
      |    models to predict the severity of KOA through logistic regression and machine learning algorithms. In the end, this study
-     |    discusses with experts whether the results can be applied to practical diagnosis.- Jackpot is defined as all the dice showing
-     |    the same face in a roll
+     |    discusses with experts whether the results can be applied to practical diagnosis.
+
+## Key Points
+*	This project is a combination of medicine and engineering. Our study fully utilizes what we have learned in Industrial Engineering, combining ergonomic knowledge and data analysis methods to help solve practical engineering problems and achieve the optimization of clinical diagnosis of knee osteoarthritis.
+
+*	This project collaborated with West China Hospital, the largest general hospital in China with an excellent reputation worldwide, to ensure our experiment data with the typicality and validity. The gait parameters for patients with knee osteoarthritis were obtained by letting patients wear gait sensors.
+
+*	Our study innovatively used a machine learning approach to classify gait parameters and developed a predictive model for early knee osteoarthritis, and our result has highly accurate and compatible with clinical studies.
+
+*	Our study provides new ideas for diagnosing early knee osteoarthritis and aims to help clinical early interventions to relieve patients from suffering and benefit numerous elder people.
+
     
